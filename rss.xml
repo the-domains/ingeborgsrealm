@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[ingeborgsrealm]]></title>
         <description><![CDATA[ingeborgsrealm]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/ingeborgsrealm/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 25 Apr 2016 18:41:57 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Mon, 25 Apr 2016 18:43:33 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/ingeborgsrealm/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>My grandfather comes from a small island called Muhu which lies off the west coast of Estonia. He is a proud descendant of fierce Estonian Vikings. On the other side of my family, my grandmother comes from the coast of the White Sea. She can trace her roots back to the Nenets people of Siberia. I feel that my ancestor’s genes are responsible for me having such a deep need of being close to nature and its power.</p>]]></description>
+            <link>https://thegrid.ai/ingeborgsrealm/my-grandfather-comes-from-a-small-island-called-muhu-which-l/index.html</link>
+            <guid isPermaLink="false">9f6e8111-b427-4ab1-a3db-6ec07c512197</guid>
+            <pubDate>Mon, 25 Apr 2016 18:43:22 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/d8cd7343-0660-445c-b02a-1c322864a945.jpg">]]></description>
-            <link>undefinedf0eb002b-324c-4b0b-ba79-0944d2f7ed91/index.html</link>
+            <link>https://thegrid.ai/ingeborgsrealm/f0eb002b-324c-4b0b-ba79-0944d2f7ed91/index.html</link>
             <guid isPermaLink="false">f0eb002b-324c-4b0b-ba79-0944d2f7ed91</guid>
             <pubDate>Mon, 25 Apr 2016 18:41:56 GMT</pubDate>
         </item>
